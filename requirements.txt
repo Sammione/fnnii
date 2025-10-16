@@ -2,4 +2,5 @@ Flask
 Flask-Cors
 python-dotenv
 requests
+uvicorn
 gunicorn
