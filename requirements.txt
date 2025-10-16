@@ -3,3 +3,4 @@ uvicorn
 requests
 fuzzywuzzy
 python-Levenshtein
+pydantic_settings
