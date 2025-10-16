@@ -1,6 +1,5 @@
-Flask
-Flask-Cors
-python-dotenv
-requests
+fastapi
 uvicorn
-gunicorn
+requests
+fuzzywuzzy
+python-Levenshtein
